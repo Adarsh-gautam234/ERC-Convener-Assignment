@@ -1,17 +1,16 @@
-# ERC Convener Assignment
+ERC Convener Assignment
 
-## 👤 Name
+Name
 Adarsh Gautam Jha(25b3927)
 
----
 
-## 📌 Overview
+##Overview
 This repository contains my submission for the ERC Convener Assignment.  
 It includes technical tasks, non-technical tasks, and a bonus innovation proposal aimed at improving engagement and creativity in ERC events.
 
 ---
 
-## 🎥 Introduction
+Introduction
 A short introductory video is included in the `Introduction` folder, where I briefly present myself and my approach towards this assignment.
 
 ---
