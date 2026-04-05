@@ -12,7 +12,6 @@ But then I came across a small, simple chip called the **555 Timer**.
 
 What surprised me the most was that this chip was introduced back in 1971, and yet it is still widely used today. From basic hobby circuits to real-world applications, it continues to show up everywhere. The more I learned about it, the more I understood why it has managed to stay relevant for so long.
 
----
 
 ## What Does the 555 Timer Do?
 
@@ -28,7 +27,6 @@ In a way, it answers a very simple but important question:
 
 **“When should something happen, and for how long?”**
 
----
 
 ## The Core Idea Behind It
 
@@ -46,7 +44,6 @@ To understand this, I like to imagine a container being filled with water.
 
 As the water level rises, I keep observing it. When it reaches a certain point, I take action — maybe empty it or trigger something. Then the process repeats.
 
----
 
 ## What’s Inside the Chip?
 
@@ -60,7 +57,6 @@ At first, the 555 Timer looked like a simple black box to me. But internally, it
 
 These work together to track voltage and control timing behavior.
 
----
 
 ## How It Works (Basic Flow)
 
@@ -77,7 +73,6 @@ When I broke it down step by step, the process became much clearer:
 
 This repeating cycle is what creates timing signals.
 
----
 
 ## Modes of Operation
 
@@ -89,7 +84,6 @@ This repeating cycle is what creates timing signals.
 - Output turns ON for a fixed duration  
 - Then automatically turns OFF  
 
----
 
 ### Astable Mode (Continuous Oscillation)
 
@@ -107,7 +101,6 @@ This repeating cycle is what creates timing signals.
 - Acts like a switch  
 - Changes only with external input  
 
----
 
 ## Why Is It Still Used Today?
 
@@ -122,7 +115,6 @@ The answer became clear:
 
 For many simple tasks, it is still the best choice.
 
----
 
 ## A Small but Powerful Insight
 
@@ -136,7 +128,6 @@ Instead, it uses physics in a controlled way to generate:
 - Signals  
 - Timing patterns  
 
----
 
 ## Conclusion
 
